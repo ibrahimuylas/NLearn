@@ -1,0 +1,15 @@
+/Users/ibrahimuylas/Projects/NLearn/NLearn.API/bin/Debug/netcoreapp2.0/NLearn.API.deps.json
+/Users/ibrahimuylas/Projects/NLearn/NLearn.API/bin/Debug/netcoreapp2.0/NLearn.API.runtimeconfig.json
+/Users/ibrahimuylas/Projects/NLearn/NLearn.API/bin/Debug/netcoreapp2.0/NLearn.API.runtimeconfig.dev.json
+/Users/ibrahimuylas/Projects/NLearn/NLearn.API/bin/Debug/netcoreapp2.0/NLearn.API.dll
+/Users/ibrahimuylas/Projects/NLearn/NLearn.API/bin/Debug/netcoreapp2.0/NLearn.API.pdb
+/Users/ibrahimuylas/Projects/NLearn/NLearn.API/obj/Debug/netcoreapp2.0/NLearn.API.csprojResolveAssemblyReference.cache
+/Users/ibrahimuylas/Projects/NLearn/NLearn.API/obj/Debug/netcoreapp2.0/NLearn.API.csproj.CoreCompileInputs.cache
+/Users/ibrahimuylas/Projects/NLearn/NLearn.API/obj/Debug/netcoreapp2.0/NLearn.API.AssemblyInfoInputs.cache
+/Users/ibrahimuylas/Projects/NLearn/NLearn.API/obj/Debug/netcoreapp2.0/NLearn.API.AssemblyInfo.cs
+/Users/ibrahimuylas/Projects/NLearn/NLearn.API/obj/Debug/netcoreapp2.0/NLearn.API.dll
+/Users/ibrahimuylas/Projects/NLearn/NLearn.API/obj/Debug/netcoreapp2.0/NLearn.API.pdb
+/Users/ibrahimuylas/Projects/NLearn/NLearn.API/bin/Debug/netcoreapp2.0/NLearn.BO.dll
+/Users/ibrahimuylas/Projects/NLearn/NLearn.API/bin/Debug/netcoreapp2.0/NLearn.DAL.dll
+/Users/ibrahimuylas/Projects/NLearn/NLearn.API/bin/Debug/netcoreapp2.0/NLearn.BO.pdb
+/Users/ibrahimuylas/Projects/NLearn/NLearn.API/bin/Debug/netcoreapp2.0/NLearn.DAL.pdb

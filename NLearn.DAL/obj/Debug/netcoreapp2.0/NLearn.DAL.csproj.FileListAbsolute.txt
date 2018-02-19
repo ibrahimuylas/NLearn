@@ -1,0 +1,8 @@
+/Users/ibrahimuylas/Projects/NLearn/NLearn.DAL/bin/Debug/netcoreapp2.0/NLearn.DAL.deps.json
+/Users/ibrahimuylas/Projects/NLearn/NLearn.DAL/bin/Debug/netcoreapp2.0/NLearn.DAL.dll
+/Users/ibrahimuylas/Projects/NLearn/NLearn.DAL/bin/Debug/netcoreapp2.0/NLearn.DAL.pdb
+/Users/ibrahimuylas/Projects/NLearn/NLearn.DAL/obj/Debug/netcoreapp2.0/NLearn.DAL.csproj.CoreCompileInputs.cache
+/Users/ibrahimuylas/Projects/NLearn/NLearn.DAL/obj/Debug/netcoreapp2.0/NLearn.DAL.AssemblyInfoInputs.cache
+/Users/ibrahimuylas/Projects/NLearn/NLearn.DAL/obj/Debug/netcoreapp2.0/NLearn.DAL.AssemblyInfo.cs
+/Users/ibrahimuylas/Projects/NLearn/NLearn.DAL/obj/Debug/netcoreapp2.0/NLearn.DAL.dll
+/Users/ibrahimuylas/Projects/NLearn/NLearn.DAL/obj/Debug/netcoreapp2.0/NLearn.DAL.pdb

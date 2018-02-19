@@ -1,0 +1,11 @@
+/Users/ibrahimuylas/Projects/NLearn/NLearn.BO/bin/Debug/netcoreapp2.0/NLearn.BO.deps.json
+/Users/ibrahimuylas/Projects/NLearn/NLearn.BO/bin/Debug/netcoreapp2.0/NLearn.BO.dll
+/Users/ibrahimuylas/Projects/NLearn/NLearn.BO/bin/Debug/netcoreapp2.0/NLearn.BO.pdb
+/Users/ibrahimuylas/Projects/NLearn/NLearn.BO/obj/Debug/netcoreapp2.0/NLearn.BO.csproj.CoreCompileInputs.cache
+/Users/ibrahimuylas/Projects/NLearn/NLearn.BO/obj/Debug/netcoreapp2.0/NLearn.BO.AssemblyInfoInputs.cache
+/Users/ibrahimuylas/Projects/NLearn/NLearn.BO/obj/Debug/netcoreapp2.0/NLearn.BO.AssemblyInfo.cs
+/Users/ibrahimuylas/Projects/NLearn/NLearn.BO/obj/Debug/netcoreapp2.0/NLearn.BO.dll
+/Users/ibrahimuylas/Projects/NLearn/NLearn.BO/obj/Debug/netcoreapp2.0/NLearn.BO.pdb
+/Users/ibrahimuylas/Projects/NLearn/NLearn.BO/bin/Debug/netcoreapp2.0/NLearn.DAL.dll
+/Users/ibrahimuylas/Projects/NLearn/NLearn.BO/bin/Debug/netcoreapp2.0/NLearn.DAL.pdb
+/Users/ibrahimuylas/Projects/NLearn/NLearn.BO/obj/Debug/netcoreapp2.0/NLearn.BO.csprojResolveAssemblyReference.cache
