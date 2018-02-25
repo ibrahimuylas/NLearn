@@ -1,6 +1,7 @@
 ﻿<Properties StartupConfiguration="{E24EB6EE-E039-4355-9C0F-C241DF926890}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="NLearn Status">
     <Files>
+      <File FileName="NLearn.UI/Views/Shared/_Layout.cshtml" Line="24" Column="35" />
       <File FileName="NLearn Status" />
     </Files>
   </MonoDevelop.Ide.Workbench>

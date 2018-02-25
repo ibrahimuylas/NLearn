@@ -6,3 +6,6 @@
 /Users/ibrahimuylas/Projects/NLearn/NLearn.DAL/obj/Debug/netcoreapp2.0/NLearn.DAL.AssemblyInfo.cs
 /Users/ibrahimuylas/Projects/NLearn/NLearn.DAL/obj/Debug/netcoreapp2.0/NLearn.DAL.dll
 /Users/ibrahimuylas/Projects/NLearn/NLearn.DAL/obj/Debug/netcoreapp2.0/NLearn.DAL.pdb
+/Users/ibrahimuylas/Projects/NLearn/NLearn.DAL/obj/Debug/netcoreapp2.0/NLearn.DAL.csprojResolveAssemblyReference.cache
+/Users/ibrahimuylas/Projects/NLearn/NLearn.DAL/bin/Debug/netcoreapp2.0/NLearn.Common.dll
+/Users/ibrahimuylas/Projects/NLearn/NLearn.DAL/bin/Debug/netcoreapp2.0/NLearn.Common.pdb

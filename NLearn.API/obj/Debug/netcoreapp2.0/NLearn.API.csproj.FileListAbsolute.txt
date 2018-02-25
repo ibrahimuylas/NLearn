@@ -13,3 +13,5 @@
 /Users/ibrahimuylas/Projects/NLearn/NLearn.API/bin/Debug/netcoreapp2.0/NLearn.DAL.dll
 /Users/ibrahimuylas/Projects/NLearn/NLearn.API/bin/Debug/netcoreapp2.0/NLearn.BO.pdb
 /Users/ibrahimuylas/Projects/NLearn/NLearn.API/bin/Debug/netcoreapp2.0/NLearn.DAL.pdb
+/Users/ibrahimuylas/Projects/NLearn/NLearn.API/bin/Debug/netcoreapp2.0/NLearn.Common.dll
+/Users/ibrahimuylas/Projects/NLearn/NLearn.API/bin/Debug/netcoreapp2.0/NLearn.Common.pdb

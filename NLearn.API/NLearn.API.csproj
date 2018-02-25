@@ -18,5 +18,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\NLearn.BO\NLearn.BO.csproj" />
+    <ProjectReference Include="..\NLearn.Common\NLearn.Common.csproj" />
   </ItemGroup>
 </Project>

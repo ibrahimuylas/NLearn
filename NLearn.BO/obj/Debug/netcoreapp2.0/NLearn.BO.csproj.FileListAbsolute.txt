@@ -9,3 +9,5 @@
 /Users/ibrahimuylas/Projects/NLearn/NLearn.BO/bin/Debug/netcoreapp2.0/NLearn.DAL.dll
 /Users/ibrahimuylas/Projects/NLearn/NLearn.BO/bin/Debug/netcoreapp2.0/NLearn.DAL.pdb
 /Users/ibrahimuylas/Projects/NLearn/NLearn.BO/obj/Debug/netcoreapp2.0/NLearn.BO.csprojResolveAssemblyReference.cache
+/Users/ibrahimuylas/Projects/NLearn/NLearn.BO/bin/Debug/netcoreapp2.0/NLearn.Common.dll
+/Users/ibrahimuylas/Projects/NLearn/NLearn.BO/bin/Debug/netcoreapp2.0/NLearn.Common.pdb
