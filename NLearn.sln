@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NLearn.DAL", "NLearn.DAL\NL
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NLearn.BO", "NLearn.BO\NLearn.BO.csproj", "{07C6A7BD-FE1E-40EA-BE85-5EE69336363B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NLearn.UI", "NLearn.UI\NLearn.UI.csproj", "{D50B52E7-6B08-4868-A827-23C67EC31FBA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,5 +33,9 @@ Global
 		{07C6A7BD-FE1E-40EA-BE85-5EE69336363B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{07C6A7BD-FE1E-40EA-BE85-5EE69336363B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{07C6A7BD-FE1E-40EA-BE85-5EE69336363B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D50B52E7-6B08-4868-A827-23C67EC31FBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D50B52E7-6B08-4868-A827-23C67EC31FBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D50B52E7-6B08-4868-A827-23C67EC31FBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D50B52E7-6B08-4868-A827-23C67EC31FBA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
