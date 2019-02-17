@@ -1,7 +1,7 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NLearn.UI", "NLearn.UI\NLearn.UI.csproj", "{5194E76F-C8BE-45A2-8A03-9E4B893DF159}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OLDNLearn.UI", "NLearn.UI\OLDNLearn.UI.csproj", "{5194E76F-C8BE-45A2-8A03-9E4B893DF159}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NLearn.API", "NLearn.API\NLearn.API.csproj", "{E24EB6EE-E039-4355-9C0F-C241DF926890}"
 EndProject
