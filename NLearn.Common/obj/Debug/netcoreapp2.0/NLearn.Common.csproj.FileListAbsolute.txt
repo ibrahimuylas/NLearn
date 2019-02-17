@@ -6,4 +6,3 @@
 /Users/ibrahimuylas/Projects/NLearn/NLearn.Common/obj/Debug/netcoreapp2.0/NLearn.Common.AssemblyInfo.cs
 /Users/ibrahimuylas/Projects/NLearn/NLearn.Common/obj/Debug/netcoreapp2.0/NLearn.Common.dll
 /Users/ibrahimuylas/Projects/NLearn/NLearn.Common/obj/Debug/netcoreapp2.0/NLearn.Common.pdb
-/Users/ibrahimuylas/Projects/NLearn/NLearn.Common/obj/Debug/netcoreapp2.0/NLearn.Common.csprojResolveAssemblyReference.cache
